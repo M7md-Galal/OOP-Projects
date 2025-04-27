@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp\\oop projects\\Contact-Manager-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|solutionrelative:Contact-Manager-App\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Address.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|solutionrelative:Contact-Manager-App\\Address.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Contact-Manager-App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|solutionrelative:Contact-Manager-App\\Contact-Manager-App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|solutionrelative:Contact-Manager-App\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|solutionrelative:Contact-Manager-App\\Contact.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Contact.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|solutionrelative:Contact-Manager-App\\Contact.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Phone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|solutionrelative:Contact-Manager-App\\Phone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Phone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|solutionrelative:Contact-Manager-App\\Phone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Address.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|solutionrelative:Contact-Manager-App\\Address.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Email.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|solutionrelative:Contact-Manager-App\\Email.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Email.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F6C90CC-B0A7-4379-AA61-8105117B7858}|Contact-Manager-App\\Contact-Manager-App.vcxproj|solutionrelative:Contact-Manager-App\\Email.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Contact.cpp",
+              "RelativeDocumentMoniker": "Contact-Manager-App\\Contact.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Contact.cpp",
+              "RelativeToolTip": "Contact-Manager-App\\Contact.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAFMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T23:20:34.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Contact.h",
+              "RelativeDocumentMoniker": "Contact-Manager-App\\Contact.h",
+              "ToolTip": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Contact.h",
+              "RelativeToolTip": "Contact-Manager-App\\Contact.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T23:17:43.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\User.cpp",
+              "RelativeDocumentMoniker": "Contact-Manager-App\\User.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\User.cpp",
+              "RelativeToolTip": "Contact-Manager-App\\User.cpp",
+              "ViewState": "AgIAAAIAAACcZ2ZmZmYkwCsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T23:03:21.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\User.h",
+              "RelativeDocumentMoniker": "Contact-Manager-App\\User.h",
+              "ToolTip": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\User.h",
+              "RelativeToolTip": "Contact-Manager-App\\User.h",
+              "ViewState": "AgIAAA0AAAAwZ2ZmZmYkwBoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T22:53:45.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Address.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Address.cpp",
+              "RelativeDocumentMoniker": "Contact-Manager-App\\Address.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Address.cpp",
+              "RelativeToolTip": "Contact-Manager-App\\Address.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T22:51:14.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact-Manager-App.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Contact-Manager-App.cpp",
+              "RelativeDocumentMoniker": "Contact-Manager-App\\Contact-Manager-App.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Contact-Manager-App.cpp",
+              "RelativeToolTip": "Contact-Manager-App\\Contact-Manager-App.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T22:14:08.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Phone.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Phone.cpp",
+              "RelativeDocumentMoniker": "Contact-Manager-App\\Phone.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Phone.cpp",
+              "RelativeToolTip": "Contact-Manager-App\\Phone.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T22:44:21.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Phone.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Phone.h",
+              "RelativeDocumentMoniker": "Contact-Manager-App\\Phone.h",
+              "ToolTip": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Phone.h",
+              "RelativeToolTip": "Contact-Manager-App\\Phone.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T22:39:45.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Address.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Address.h",
+              "RelativeDocumentMoniker": "Contact-Manager-App\\Address.h",
+              "ToolTip": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Address.h",
+              "RelativeToolTip": "Contact-Manager-App\\Address.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T22:50:15.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Email.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Email.cpp",
+              "RelativeDocumentMoniker": "Contact-Manager-App\\Email.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Email.cpp",
+              "RelativeToolTip": "Contact-Manager-App\\Email.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T22:48:01.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Email.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Email.h",
+              "RelativeDocumentMoniker": "Contact-Manager-App\\Email.h",
+              "ToolTip": "D:\\asp\\oop projects\\Contact-Manager-App\\Contact-Manager-App\\Email.h",
+              "RelativeToolTip": "Contact-Manager-App\\Email.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T22:47:20.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+﻿  Contact-Manager-App.cpp
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(69,9): error C2065: 'contactSystem': undeclared identifier
+  (compiling source file 'Contact-Manager-App.cpp')
+  
+  Contact.cpp
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(69,9): error C2065: 'contactSystem': undeclared identifier
+  (compiling source file 'Contact.cpp')
+  
+  User.cpp
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(69,9): error C2065: 'contactSystem': undeclared identifier
+  (compiling source file 'User.cpp')
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(3,7): error C2511: 'User::User(int,std::string,std::string,std::string,std::string)': overloaded member function not found in 'User'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(11,7):
+      see declaration of 'User'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(5,5): error C2597: illegal reference to non-static member 'User::id'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(14,9):
+      see declaration of 'User::id'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(6,5): error C2597: illegal reference to non-static member 'User::firstname'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(15,12):
+      see declaration of 'User::firstname'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(7,5): error C2597: illegal reference to non-static member 'User::lastname'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(16,12):
+      see declaration of 'User::lastname'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(8,5): error C2597: illegal reference to non-static member 'User::gender'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(17,12):
+      see declaration of 'User::gender'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(9,5): error C2597: illegal reference to non-static member 'User::city'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(18,12):
+      see declaration of 'User::city'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(10,5): error C2597: illegal reference to non-static member 'User::addedDate'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(19,12):
+      see declaration of 'User::addedDate'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(22,12): error C2511: 'void User::set_firstname(std::string)': overloaded member function not found in 'User'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(11,7):
+      see declaration of 'User'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(24,5): error C2597: illegal reference to non-static member 'User::firstname'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(15,12):
+      see declaration of 'User::firstname'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(27,12): error C2511: 'void User::set_lastname(std::string)': overloaded member function not found in 'User'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(11,7):
+      see declaration of 'User'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(29,5): error C2597: illegal reference to non-static member 'User::lastname'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(16,12):
+      see declaration of 'User::lastname'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(32,12): error C2511: 'void User::set_gender(std::string)': overloaded member function not found in 'User'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(11,7):
+      see declaration of 'User'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(34,5): error C2597: illegal reference to non-static member 'User::gender'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(17,12):
+      see declaration of 'User::gender'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(37,12): error C2511: 'void User::set_city(std::string)': overloaded member function not found in 'User'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(11,7):
+      see declaration of 'User'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(39,5): error C2597: illegal reference to non-static member 'User::city'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(18,12):
+      see declaration of 'User::city'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(95,12): error C2511: 'void User::add_phone(Phone)': overloaded member function not found in 'User'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(11,7):
+      see declaration of 'User'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(100,12): error C2511: 'void User::add_email(Email)': overloaded member function not found in 'User'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(11,7):
+      see declaration of 'User'
+  
+D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.cpp(105,12): error C2511: 'void User::add_address(Address)': overloaded member function not found in 'User'
+      D:\asp\oop projects\Contact-Manager-App\Contact-Manager-App\User.h(11,7):
+      see declaration of 'User'
+  
+  Generating Code...
