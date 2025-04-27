@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp\\oop projects\\Employee-Management-App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Employee-Management-App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\Employee-Management-App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\StaffMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\StaffMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\StaffMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\StaffMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Staff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\Staff.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Staff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\Staff.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Budget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\Budget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Project.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\Project.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Budget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\Budget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\ExecutiveEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\ExecutiveEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\ExecutiveEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\ExecutiveEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\CommissionEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\CommissionEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\CommissionEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\CommissionEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\SalariedEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\SalariedEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\SalariedEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\SalariedEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\HourlyEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\HourlyEmployee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\HourlyEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\HourlyEmployee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\Employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\Employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Volunteer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\Volunteer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Volunteer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\Volunteer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Department.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\Department.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Department.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17B12DBE-3790-4A84-9B74-8DD73DEE0B6F}|Employee-Management-App\\Employee-Management-App.vcxproj|solutionrelative:Employee-Management-App\\Department.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee-Management-App.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Employee-Management-App.cpp",
+              "RelativeDocumentMoniker": "Employee-Management-App\\Employee-Management-App.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Employee-Management-App.cpp",
+              "RelativeToolTip": "Employee-Management-App\\Employee-Management-App.cpp",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAswGsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T22:42:06.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Project.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Project.cpp",
+              "RelativeDocumentMoniker": "Employee-Management-App\\Project.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Project.cpp",
+              "RelativeToolTip": "Employee-Management-App\\Project.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T23:40:56.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffMember.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\StaffMember.cpp",
+              "RelativeDocumentMoniker": "Employee-Management-App\\StaffMember.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\StaffMember.cpp",
+              "RelativeToolTip": "Employee-Management-App\\StaffMember.cpp",
+              "ViewState": "AgIAABcAAADgzczMzIwjwCEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T23:49:16.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffMember.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\StaffMember.h",
+              "RelativeDocumentMoniker": "Employee-Management-App\\StaffMember.h",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\StaffMember.h",
+              "RelativeToolTip": "Employee-Management-App\\StaffMember.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T23:48:18.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Staff.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Staff.cpp",
+              "RelativeDocumentMoniker": "Employee-Management-App\\Staff.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Staff.cpp",
+              "RelativeToolTip": "Employee-Management-App\\Staff.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T23:28:25.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Staff.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Staff.h",
+              "RelativeDocumentMoniker": "Employee-Management-App\\Staff.h",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Staff.h",
+              "RelativeToolTip": "Employee-Management-App\\Staff.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T23:24:33.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Budget.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Budget.cpp",
+              "RelativeDocumentMoniker": "Employee-Management-App\\Budget.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Budget.cpp",
+              "RelativeToolTip": "Employee-Management-App\\Budget.cpp",
+              "ViewState": "AgIAAAQAAABAZWZmZmYkwAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T01:02:44.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Project.h",
+              "RelativeDocumentMoniker": "Employee-Management-App\\Project.h",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Project.h",
+              "RelativeToolTip": "Employee-Management-App\\Project.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T23:34:16.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Budget.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Budget.h",
+              "RelativeDocumentMoniker": "Employee-Management-App\\Budget.h",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Budget.h",
+              "RelativeToolTip": "Employee-Management-App\\Budget.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T01:01:56.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalariedEmployee.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\SalariedEmployee.cpp",
+              "RelativeDocumentMoniker": "Employee-Management-App\\SalariedEmployee.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\SalariedEmployee.cpp",
+              "RelativeToolTip": "Employee-Management-App\\SalariedEmployee.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwCEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T00:10:33.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommissionEmployee.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\CommissionEmployee.h",
+              "RelativeDocumentMoniker": "Employee-Management-App\\CommissionEmployee.h",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\CommissionEmployee.h",
+              "RelativeToolTip": "Employee-Management-App\\CommissionEmployee.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T00:12:42.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommissionEmployee.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\CommissionEmployee.cpp",
+              "RelativeDocumentMoniker": "Employee-Management-App\\CommissionEmployee.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\CommissionEmployee.cpp",
+              "RelativeToolTip": "Employee-Management-App\\CommissionEmployee.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T00:13:10.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExecutiveEmployee.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\ExecutiveEmployee.h",
+              "RelativeDocumentMoniker": "Employee-Management-App\\ExecutiveEmployee.h",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\ExecutiveEmployee.h",
+              "RelativeToolTip": "Employee-Management-App\\ExecutiveEmployee.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T00:17:56.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExecutiveEmployee.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\ExecutiveEmployee.cpp",
+              "RelativeDocumentMoniker": "Employee-Management-App\\ExecutiveEmployee.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\ExecutiveEmployee.cpp",
+              "RelativeToolTip": "Employee-Management-App\\ExecutiveEmployee.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T00:19:06.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SalariedEmployee.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\SalariedEmployee.h",
+              "RelativeDocumentMoniker": "Employee-Management-App\\SalariedEmployee.h",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\SalariedEmployee.h",
+              "RelativeToolTip": "Employee-Management-App\\SalariedEmployee.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T00:09:58.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HourlyEmployee.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\HourlyEmployee.cpp",
+              "RelativeDocumentMoniker": "Employee-Management-App\\HourlyEmployee.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\HourlyEmployee.cpp",
+              "RelativeToolTip": "Employee-Management-App\\HourlyEmployee.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T00:05:42.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HourlyEmployee.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\HourlyEmployee.h",
+              "RelativeDocumentMoniker": "Employee-Management-App\\HourlyEmployee.h",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\HourlyEmployee.h",
+              "RelativeToolTip": "Employee-Management-App\\HourlyEmployee.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T00:04:25.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Volunteer.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Volunteer.cpp",
+              "RelativeDocumentMoniker": "Employee-Management-App\\Volunteer.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Volunteer.cpp",
+              "RelativeToolTip": "Employee-Management-App\\Volunteer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T00:01:27.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Volunteer.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Volunteer.h",
+              "RelativeDocumentMoniker": "Employee-Management-App\\Volunteer.h",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Volunteer.h",
+              "RelativeToolTip": "Employee-Management-App\\Volunteer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T00:00:49.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Employee.cpp",
+              "RelativeDocumentMoniker": "Employee-Management-App\\Employee.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Employee.cpp",
+              "RelativeToolTip": "Employee-Management-App\\Employee.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T23:57:25.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employee.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Employee.h",
+              "RelativeDocumentMoniker": "Employee-Management-App\\Employee.h",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Employee.h",
+              "RelativeToolTip": "Employee-Management-App\\Employee.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T23:55:55.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Department.cpp",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Department.cpp",
+              "RelativeDocumentMoniker": "Employee-Management-App\\Department.cpp",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Department.cpp",
+              "RelativeToolTip": "Employee-Management-App\\Department.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T22:56:23.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Department.h",
+              "DocumentMoniker": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Department.h",
+              "RelativeDocumentMoniker": "Employee-Management-App\\Department.h",
+              "ToolTip": "D:\\asp\\oop projects\\Employee-Management-App\\Employee-Management-App\\Department.h",
+              "RelativeToolTip": "Employee-Management-App\\Department.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T22:56:04.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
