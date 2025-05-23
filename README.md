@@ -11,4 +11,4 @@ This collection showcases different projects I’ve developed to practice and de
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/oop-projects.git
+   git clone https://github.com/M7md-Galal/oop-projects.git
