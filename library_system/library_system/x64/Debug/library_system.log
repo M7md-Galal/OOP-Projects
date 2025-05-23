@@ -1,0 +1,6 @@
+﻿  Book.cpp
+D:\P Advice\C++ OOP Level 1\library_system\library_system\Book.cpp(46,13): warning C4129: ' ': unrecognized character escape sequence
+  library_system.cpp
+D:\P Advice\C++ OOP Level 1\library_system\library_system\library_system.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  library_system.vcxproj -> D:\P Advice\C++ OOP Level 1\library_system\x64\Debug\library_system.exe
